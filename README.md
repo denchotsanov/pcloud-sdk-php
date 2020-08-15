@@ -38,14 +38,14 @@ In order to use this SDK, you have to register your application in [My applicati
 Install [Composer](http://getcomposer.org/download/).
 
 ```bash
-$ composer require pcloud/pcloud-php-sdk
+$ composer require denchotsanov/pcloud-php-sdk
 ```
 
 or add the following to `composer.json` file
 
 ~~~~
 "require": {
-  "pcloud/pcloud-php-sdk": "2.*"
+  "denchotsanov/pcloud-php-sdk": "2.*"
 }
 ~~~~
 
